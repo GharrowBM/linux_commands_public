@@ -35,8 +35,8 @@ my-app/
   public/
     index.html
   src/
-		**components/
-			Navbar/**
+    components/
+	Navbar/
     App.css
     App.js
     index.css
