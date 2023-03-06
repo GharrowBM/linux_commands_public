@@ -10,7 +10,7 @@ Si l'on demande à nano d'ouvrir un fichier qui n'existe pas encore, il est alor
 
 Lorsque l'on utilise nano, il existe plusieurs raccourcis permettant une utilisation plus poussée de l'éditeur nano. Pour accéder à la liste des raccourcis dans l'éditeur nano, il est nécessaire d'appuyer sur la combinaison de touches `CTRL+G`.
 
-Pour activer le soft-wrapping, la raccourcis se trouve être `Meta+$` (la touche méta se trouvant être soit **ESC** sur Mac ou **ALT** sur un clavier Windows dépourvu de cette touche). Egalement parmi les raccourcis utiles se trouve également la capacité de rechercher des éléments dans un fichier. Pour ce faire, il faut utiliser le raccourcis `CTRL+W`. Chaque recherche se fera à partir de l'élément trouvé dans le cas de recherche de l'occurence suivante d'un mot. De base, la recherche ne prend pas en compte la casse, mais il est possible de l'ajouter avec `Meta+C`. Pour rechercher la précédente occurence, il faut utiliser `Meta+B`. Il est aussi possible de remplacer via l'utilisation de `Ctrl+\`.
+Pour activer le soft-wrapping, la raccourcis se trouve être `Meta+$` (la touche méta se trouvant être soit **ESC** sur Mac ou **ALT** sur un clavier Windows dépourvu de cette touche). Egalement parmi les raccourcis utiles se trouve également la capacité de rechercher des éléments dans un fichier. Pour ce faire, il faut utiliser le raccourcis `CTRL+W`. Chaque recherche se fera à partir de l'élément trouvé dans le cas de recherche de l'occurence suivante d'un mot. De base, la recherche ne prend pas en compte la casse, mais il est possible de l'ajouter avec `Meta+C`. Pour rechercher la précédente occurence, il faut utiliser `Meta+B`. Il est aussi possible de remplacer via l'utilisation de `Meta+R`.
 
 ### Spellchecking
 
