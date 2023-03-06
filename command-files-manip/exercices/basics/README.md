@@ -23,7 +23,7 @@ Bootcamp/
 		Naomi.txt
 ```
 
-* Malheureusement, `Edgar` a dû abandonner le cours. Supprimez le fichier `Edgar.tx` de `FallCohort`.
+* Malheureusement, `Edgar` a dû abandonner le cours. Supprimez le fichier `Edgar.txt` de `FallCohort`.
 * Cela signifie que nous avons maintenant de la place dans notre cohorte d'automne pour retirer quelqu'un de la liste d'attente. Veuillez déplacer `Netta.txt` du dossier `Waitlist` dans le dossier `FallCohort`.
 * Veuillez supprimer le dossier `Waitlist` et son contenu.
 * Il s'avère que j'ai mal orthographié Sara. Elle écrit son nom "Sarah" avec un "h" à la fin. Veuillez renommer le fichier `Sara.txt` en `Sarah.txt`.
